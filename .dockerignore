@@ -1,0 +1,38 @@
+# Git
+.git
+.gitignore
+
+# IDE
+.idea
+.vscode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# Poetry
+poetry.lock
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Data (if large)
+*.csv
+*.parquet
+*.h5
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv
+venv
+env
