@@ -100,3 +100,4 @@ mlruns/
 
 # System
 /.Trash-0/
+/.env
